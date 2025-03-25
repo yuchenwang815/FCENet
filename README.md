@@ -1,6 +1,10 @@
+
 # Complementary Advantages: Exploiting Cross-Field Frequency Correlation for NIR-Assisted Image Denoising
+
 Yuchen Wang, Hongyuan Wang, Lizhi Wang, Xin Wang, Lin Zhu, Wanxuan Lu, Hua Huang
+
 [![paper](https://img.shields.io/badge/arXiv-Paper-<COLOR>.svg)](https://arxiv.org/abs/2412.16645)
+
 
 <hr />
 
@@ -9,6 +13,7 @@ Yuchen Wang, Hongyuan Wang, Lizhi Wang, Xin Wang, Lin Zhu, Wanxuan Lu, Hua Huang
 
 ## Network Architecture
 
+<img src = "https://github.com/yuchenwang815/FCENet/blob/main/fig/arch.png"> 
 
 ## Code
 
